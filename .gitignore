@@ -1,0 +1,56 @@
+# ===== Unity generated folders =====
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+
+# (Unity 2020+)
+[Rr]ecordings/
+
+# ===== IDE / OS files =====
+.vscode/
+.vs/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# macOS / Windows junk
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# ===== Unity build artifacts =====
+*.apk
+*.aab
+*.app
+*.exe
+*.unitypackage
+*.ipa
+
+# ===== Crash / profiling =====
+sysinfo.txt
+
+# ===== Addressables / AssetBundles output (if used) =====
+[Aa]sset[Bb]undles/
+[Aa]sset[Bb]undle[Cc]ache/
+[Aa]ddressable[Aa]ssets[Dd]ata/*/Build/
+[Aa]ddressable[Aa]ssets[Dd]ata/*/PlayerBuildData/
+
+# ===== IL2CPP / Gradle caches =====
+.gradle/
+**/obj/
