@@ -28,7 +28,7 @@ Project documentation details the intended HCI flow, multimodal feedback, and mo
 - **Immediate feedback**: sound (buzzer) + text (LCD) + visual overlays (Web/AR)
 - **Guided learning**: melody step index, tolerant mistakes, clear next-action cues
 - **Accessibility**: large visual elements, tolerant error handling, reduced cognitive load
-- 
+  
 ---
 
 ## Goals
