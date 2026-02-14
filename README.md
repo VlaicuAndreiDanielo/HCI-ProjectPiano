@@ -6,7 +6,7 @@ An interactive piano learning system that evolved from a simple IoT prototype in
 - AR tutor (Unity + Vuforia) with step‑by‑step overlays
 - Azure AI melody recognition (record → cloud → detected song → LCD)
 
-Project documentation details the intended HCI flow, multimodal feedback, and module responsibilities. fileciteturn0file0
+Project documentation details the intended HCI flow, multimodal feedback, and module responsibilities.
 
 ## Modules
 - [Code (ESP32)](/Piano-Code/README-Code.md)
